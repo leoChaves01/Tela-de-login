@@ -13,9 +13,10 @@ Este projeto é uma tela de login desenvolvida com **Next.js**, **TypeScript** e
 
 ## 📸 Screenshot
 
-![Pagina Inicial](login/img/paginaInicial.png)
-![Tela de Login](login/img/login.png)
-![Tela de Cadstro](login/img/cadastre-se.png)
+![Pagina Inicial](/img/paginaInicial.png)
+![Tela de Login](/img/login.png)
+![Tela de Cadastro](/img/cadastre-se.png)
+
 
 ## 🚀 Tecnologias Utilizadas
 
