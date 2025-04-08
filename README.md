@@ -11,11 +11,11 @@ Este projeto é uma tela de login desenvolvida com **Next.js**, **TypeScript** e
 - Listagem de usuários
 - Logout funcional
 
-## 📷 Imagem de Exemplo
+## 📸 Screenshot
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+![Pagina Inicial](login/img/paginaInicial.png)
+![Tela de Login](login/img/login.png)
+![Tela de Cadstro](login/img/cadastre-se.png)
 
 ## 🚀 Tecnologias Utilizadas
 
